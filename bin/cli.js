@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var isaacs = require("isaacs")
 var argv = require("optimist").argv
 

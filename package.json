@@ -7,7 +7,10 @@
   { "lib" : "."
   , "example" : "example"
   }
-, "dependencies" : { "markov" : "0.0.6" }
+, "dependencies" : {
+    "markov" : "0.0.6",
+    "wordwrap": "0.0.1"
+  }
 , "scripts" :
   { "install" : "curl http://substack.net/data/isaacs.txt -o logs.txt"
   }

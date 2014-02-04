@@ -38,7 +38,7 @@ Calls `cb(isaacs)` once your isaacs has loaded enough to speak.
 isaacs.speak(text=isaacs.markov.pick())
 ---------------------------------------
 
-Talk to your isaacs with some `text` or else request that your issacs talk to
+Talk to your isaacs with some `text` or else request that your isaacs talk to
 you.
 
 isaacs.markov
@@ -74,8 +74,8 @@ With [npm](http://npmjs.org) do:
 
     npm install isaacs
 
-to get issacs as a library or:
+to get isaacs as a library or:
 
     npm install -g isaacs
 
-to get the issacs command.
+to get the isaacs command.
